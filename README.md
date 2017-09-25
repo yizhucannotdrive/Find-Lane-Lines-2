@@ -7,3 +7,5 @@ Goal: Finding Lane lines on the Road
 2 Identify potential shortcomings with my current pipeline
 
 3 Suggest possible improvement of pipeline.
+
+Details see writeup.pdf
